@@ -1,6 +1,6 @@
 <?php
 
-print "welcome to openshift"
+print "yahooo!!!its done"
   
   
  ?>
